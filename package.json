@@ -16,7 +16,7 @@
   "author": "Paweł Maciejewski <1276139+pwlmaciejewski@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.7.0",
+    "eslint": "^10.13.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.0.5"
